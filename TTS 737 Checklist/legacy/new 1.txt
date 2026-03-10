@@ -1,0 +1,259 @@
+#########################################################################
+
+Preflight Checklist
+
+Oxygen
+
+Navigation, Transfer and display switches
+
+Window Heat
+
+Pressurization Mode Selector
+
+Flight instruments
+
+Engine Start Levers
+
+Preflight Checklist completed
+
+-----------------------------------------------
+
+Before Start Checklist
+
+Flight Deck Door
+
+Fuel
+
+Doors and Windows
+
+M C P
+
+Autobrake
+
+Takeoff Speeds
+
+C D U Preflight
+
+Parking Brake
+
+Rudden and Aileron Trim
+
+Taxi and takeoff briefing
+
+Before Start Checklist completed to the line
+
+------------------------------------------------
+
+Before Start Checklist below the line
+
+fasten seat belt signs
+
+anticollision light
+
+parking brake
+
+Before Start Checklist completed
+
+------------------------------------------------
+
+Single engine before taxi checklist
+
+generator
+
+packs
+
+isolation valve
+
+flight controls
+
+ground equipment
+
+Single engine before taxi checklist completed
+
+----------------------------------------------------
+
+Single engine taxi out checklist
+
+generators
+
+anti ice
+
+engine start switches
+
+recall
+
+engine start levers
+
+Single engine taxi out checklist completed
+
+----------------------------------------------------
+
+Dual engine before taxi checklist
+
+Generators
+
+anti-ice
+
+A P U 
+
+Engine start switches
+
+recall
+
+engine start levers
+
+flight controls
+
+ground equipment
+
+
+Dual engine before taxi checklist completed
+---------------------------------------------------
+
+Before takeoff checklist
+
+flaps
+
+stabilizer trim
+
+Before takeoff checklist completed
+-------------------------------------------------------
+
+Runway change checklist
+
+flaps
+
+N1
+
+I A S bugs
+
+Stabilizer trim
+
+Takeoff briefing
+
+C D U departure update
+
+Runway change checklist completed
+----------------------------------------------------------------
+
+after takeoff checklist
+
+Engine bleeds
+
+Isolation Valve
+
+Packs
+
+Landing gear
+
+Flaps
+
+after takeoff checklist completed
+
+-------------------------------------------------------
+
+descent checklist
+
+pressurization
+
+recalll
+
+landing data
+
+approach briefing
+
+descent checklist completed
+
+---------------------------------------------------------
+
+approach checklist
+
+altimeters
+
+runway and autobrake
+
+approach checklist completed
+
+---------------------------------------------------------
+
+landing checklist
+
+engine start switches
+
+altimeters
+
+apeedbrake
+
+landing gear
+
+flaps
+
+landing checklist completed
+
+-------------------------------------------------
+
+shutdown checklist
+
+anticollision lights
+
+weather radar
+
+engine start levers
+
+parking brake
+
+transponder
+
+shutdown checklist completed
+
+-----------------------------------------------------
+
+secure checklist
+
+I R S
+
+emergency exit lights
+
+window heat
+
+packs
+
+secure checklist completed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
