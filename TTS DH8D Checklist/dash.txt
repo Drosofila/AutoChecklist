@@ -1,0 +1,207 @@
+preflight checklist
+
+escape hatch
+
+alternate gear doors and landing gear inhibit switch
+
+circuit breakers
+
+emergency lights
+
+anti-skid
+
+flight instruments
+
+preflight checklist, completed
+
+
+before start checklist
+
+a p u bleed
+
+fuel quantity
+
+take-off data
+
+emergency brake and pressure
+
+power levers
+
+condition levers
+
+doors and fueling lights
+
+passenger signs
+
+anti-collision lights
+
+before start checklist, completed
+
+
+before taxi checklist
+
+a, p u
+
+main bus tie
+
+pitot static and windshield heat
+
+bleed air
+
+yaw damper
+
+standby hydraulic and p t u
+
+number 3 isolation valve
+
+flaps
+
+trims
+
+nose wheel steering
+
+before start checklist, completed
+
+
+taxi checklist
+
+auxiliar pumps
+
+auto feather
+
+take-off warning
+
+caution and warning lights
+
+taxi checklist, completed
+
+
+before take-off checklist
+
+bleed air 
+
+ice protection
+
+flight controls
+
+flight taxi switch
+
+before take-off checklist, completed
+
+
+after take-off checklist
+
+landing gear
+
+flaps
+
+climb power
+
+bleed air
+
+auto feather
+
+auxiliar pumps
+
+standby hydraulic and p t u
+
+after take-off checklist, completed
+
+
+descent checklist
+
+approach briefing
+
+landing data
+
+cabin altitude control
+
+descent checklist, completed
+
+
+approach checklist
+
+altimeters
+
+landing flaps
+
+standby hydraulic and p t u
+
+auxiliar pumps
+
+passenger signs
+
+caution and warning lights
+
+approach checklist, completed
+
+
+landing checklist
+
+landing gear
+
+bleed air
+
+flaps
+
+condition levers
+
+landing checklist, completed
+
+
+after landing checklist
+
+main bus tie
+
+ice protection
+
+bleed air
+
+flight taxi switch
+
+yaw damper
+
+auxiliar pumps
+
+control lock
+
+flaps
+
+radar
+
+after landing checklist, completed
+
+
+shutdown checklist
+
+bleed air
+
+standby hydraulic and p t u
+
+nose wheel steering
+
+transponder 
+
+condition levers
+
+shutdown checklist, completed
+
+
+secure checklist
+
+emergency lights
+
+pressurization
+
+anti-skid
+
+avionics display units
+
+recirculation fan
+
+dome lights
+
+battery switches
+
+secure checklist, completed
+

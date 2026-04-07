@@ -9,7 +9,7 @@ fi
 
 AIRCRAFT=$(cat "$AIRCRAFT_FILE")
 
-BASE="$HOME/Documents/Audio Checklists/$AIRCRAFT/Raw"
+BASE="$HOME/Audio Checklists/$AIRCRAFT/Raw"
 STATE_FILE="/tmp/737_checklist_state"
 
 ACTIVE=$(xdotool getactivewindow getwindowname)

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Select Aircraft Checklist
+# Exec=konsole -e bash "/home/drosofila/Documents/Audio Checklists/TTS 737 Checklist/Scripts/select_aircraft.sh"
+Exec=bash "/home/drosofila/Audio Checklists/Scripts/select_aircraft.sh"
+Type=Application
+Terminal=true
+# Terminal=false
