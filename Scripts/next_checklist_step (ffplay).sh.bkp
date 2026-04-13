@@ -37,7 +37,7 @@ FILE="${STEPS[$STEP]}"
 
 if [ -n "$FILE" ]; then
     echo "Playing: $FILE"
-    aplay -q "$FILE"
+    ffplay -nodisp -autoexit "$FILE"
     STEP=$((STEP+1))
 else
     # move to next checklist
@@ -55,7 +55,7 @@ else
     FILE="${STEPS[0]}"
 
     echo "Starting next checklist: $CURRENT_LIST"
-    aplay -q "$FILE"
+    ffplay -nodisp -autoexit "$FILE"
     STEP=1
 fi
 
