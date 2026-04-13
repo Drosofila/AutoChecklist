@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AIRCRAFT_FILE="/tmp/active_aircraft_checklist"
+AIRCRAFT_FILE="$HOME/Audio Checklists/.active_aircraft"
 
 # default aircraft if none selected
 if [ ! -f "$AIRCRAFT_FILE" ]; then

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AIRCRAFT_FILE="/tmp/active_aircraft_checklist"
+AIRCRAFT_FILE="$HOME/Audio Checklists/.active_aircraft"
 
 echo "Available aircraft:"
 echo "1) TTS 737"
